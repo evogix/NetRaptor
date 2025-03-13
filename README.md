@@ -1,10 +1,11 @@
 ![Logo](https://raw.githubusercontent.com/evogix/NetRaptor/refs/heads/main/attached_assets/netraptor_icon.png)
 
-# 🦖 NetRaptor – The Ultimate Cyber Reconnaissance Weapon 🚀💀
+# 🦖 NetRaptor – 🔥🔍Intelligent IP Hunter & Network Explorer 🚀🔍
 
 ### **Hunt. Exploit. Dominate.** 🔥
+🛡️NetRaptor is built for cybersecurity professionals, pentesters, and network analysts who need a powerful tool for tracking IPs 🔍, exploring networks 🌐, detecting active services 🚦, and analyzing web targets 🕵️‍♂️. Stay ahead with precision scanning and insightful reconnaissance. 🚀
 
-NetRaptor isn’t just a tool—it’s your **cyber weapon**. Designed for elite **hackers, pentesters, and cyber warriors**, it lets you **generate stealth IPs, scan for open ports, detect hidden services, and break down web defenses.** No more guesswork—just pure digital dominance. ⚡
+
 
 ## 🛠️ **Features Built for Hackers:**
 
