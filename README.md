@@ -1,4 +1,4 @@
-![Logo] (https://raw.githubusercontent.com/evogix/NetRaptor/refs/heads/main/attached_assets/netraptor_icon.png)
+![Logo](https://raw.githubusercontent.com/evogix/NetRaptor/refs/heads/main/attached_assets/netraptor_icon.png)
 
 # 🦖 NetRaptor – The Ultimate Cyber Reconnaissance Weapon 🚀💀
 
