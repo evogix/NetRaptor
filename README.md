@@ -50,3 +50,4 @@ python netraptor.py -i 192.168.1.1 --service-detection --web-analysis
 
 🚀 **Unleash Chaos. Control the Network. Own the Web.** 💀🔥
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
