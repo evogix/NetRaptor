@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-NetScan - A CLI tool for network scanning and analysis
+NetRaptor - A CLI tool for network scanning and analysis
 
 This tool can generate random IPs, scan ports, detect services, and analyze websites.
 """
@@ -106,7 +106,7 @@ A CLI tool for network scanning and analysis
     print(banner)
 
 def main():
-    """Main function for the NetScan tool"""
+    """Main function for the NetRaptor tool"""
     print_banner()
     args = parse_arguments()
     logger = setup_logger()
